@@ -92,16 +92,9 @@ p {
 .project-description {
   padding: 120px 60px;
 }
-#travel-picture {
-  margin-top: 30px;
-}
 
-#travel {
+.travel {
   margin-top: -50px;
-}
-
-#weather {
-  margin-top: -70px;
 }
 
 @media (max-width: 960px) {
